@@ -12,10 +12,10 @@ else if ((grade >= 50) && (grade <=59)) {
 	document.write("You have got B and your grade point is 3.5");
 }
 else if ((grade >= 40) && (grade <=49)) {
-	document.write("WOW! you have got C and your grade point is 3.0");
+	document.write("You have got C and your grade point is 3.0");
 }
 else if ((grade >= 33) && (grade <=39)) {
-	document.write("WOW! you have got D and your grade point is 2.75");
+	document.write("You have got D and your grade point is 2.75");
 }
  else if ((grade >= 0) && (Grade <= 32)) {
         document.write("Sorry! You have Failed and your grade point is 0 Try harder!!");
