@@ -17,7 +17,7 @@ else if ((grade >= 40) && (grade <=49)) {
 else if ((grade >= 33) && (grade <=39)) {
 	document.write("You have got D and your grade point is 2.75");
 }
- else if ((grade >= 0) && (Grade <= 32)) {
+ else if ((grade >= 0) && (Grade <=32)) {
         document.write("Sorry You have Failed and your grade point is 0 Try harder");
     }
     else {
